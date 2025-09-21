@@ -1,2 +1,2 @@
 # Risc-v-Sphincs
-Quá trình thiết kế RV-Sphincs
+Tính được cái Random R từ SHA_256 module
